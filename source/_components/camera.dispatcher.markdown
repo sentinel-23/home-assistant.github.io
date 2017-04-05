@@ -17,7 +17,7 @@ ha_iot_class: "depends"
 This platform is meant for developers only.
 </p>
 
-The `dispatcher` camera platform allows developers to create virtual camera's.
+The `dispatcher` camera platform allows developers to create virtual cameras.
 
 You would normally not add this camera to your configuration directly but have it be discovered by one of the components that uses it.
 
